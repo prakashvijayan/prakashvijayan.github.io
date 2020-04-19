@@ -5,13 +5,13 @@ body{
 	background-size: cover;
 }
 .box{
-	width: 450px
+	width: 300px
 	background: rgba(0, 0, 0, 0.4);
-	padding: 40px;
+	padding: 5px;
 	text-align: Center;
 	margin: auto;
 	margin-top: 5%;
-	color: blue;
+	color: black;
 	font-family: 'Century Gothic' ,sans-serif;
 }
 .box-img{
@@ -25,16 +25,35 @@ body{
 	font-weight: 100;
 }
 .box h5{
-	font-size:25px;
-	letter-spacing:3px;
-	font-weight: 100;
+	font-size:20px;
+	letter-spacing:2px;
+	font-weight: 10;
 
 }
-.wrapper {
-    background-image: url(C:\Users\prakk\Documents\GitHub\prakashvijayan.github.io\Himalayan.jpg)  no-repeat scroll;
-    background-size: 100%;
-    background-position: top;
-    width: 100%;
-    height: 100%;
-    min-width: 950px;
+.box h6{
+	font-size:20px;
+	letter-spacing:2px;
+	font-weight: 10;
+
+}
+
+#footer{
+  background: #fafafa;
+  min-height: 50px;
+  text-align: left;
+  color: #b1b1b1;
+  padding-top: 20px;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+
+#work{
+  background: #eee;
+  height: auto;
+  margin-top: -30px;
+  text-align: center;
+  padding: 60px 0 60px 0;
+  font-size: 26px;
+  line-height: 40px;
 }
